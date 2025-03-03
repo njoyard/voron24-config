@@ -1,5 +1,5 @@
 Voron 2.4 300mm
-- Belts tuned to 110Hz with Spectroid then equalized to match the main peak in shaketune
+- Belts tuned to 110Hz with 150mm between XY idler and front idler center, by ear comparing to reference tone
 - Galileo 2 extruder
 - ADXL345 on Nitehawk-SB toolboard (adjusted axes_map to -y,z,-x due to board orientation)
 - OMC 17HS19-2004S1 1.8° steppers on ABZ
