@@ -1,0 +1,8 @@
+Voron 2.4 300mm
+- Belts tuned to 110Hz with Spectroid
+- Galileo 2 extruder
+- ADXL345 on Nitehawk-SB toolboard (adjusted axes_map to -y,z,-x due to board orientation)
+- OMC 17HS19-2004S1 1.8° steppers on ABZ
+- TMC Autotune enabled on all steppers with default config and sensorless on AB
+- Sweep disabled
+
