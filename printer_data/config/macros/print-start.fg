@@ -1,0 +1,5 @@
+[gcode_macro START_PRINT]
+gcode:
+  G32                            ; home all axes
+  G1 Z20 F3000                   ; move nozzle away from bed
+   
