@@ -32,3 +32,6 @@ probe accuracy results: maximum 3.279137, minimum 3.276637, range 0.002500, aver
 
 ; 100C + 5mn
 probe accuracy results: maximum 3.324137, minimum 3.316637, range 0.007500, average 3.318137, median 3.316637, standard deviation 0.002291
+
+; 100C + 15mn
+probe accuracy results: maximum 4.842000, minimum 4.839500, range 0.002500, average 4.840250, median 4.839500, standard deviation 0.001146
