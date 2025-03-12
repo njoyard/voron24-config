@@ -1,3 +1,5 @@
+# Resonance testing message
+
 Voron 2.4 300mm
 - Belts tuned to 110Hz with 150mm between XY idler and front idler centers, by ear comparing to reference tone (tried spectroid, not accurate enough)
 - Galileo 2 extruder
@@ -11,3 +13,22 @@ Overall pretty satisfied with print quality, no obvious problems.
 Cube was printed with MZV with parameters from the results recommendation.
 
 Main question is: is there something blatantly wrong with my setup (or that could be easily improved) ?
+
+----
+
+# Probe accuracy when heated
+
+; 93C
+probe accuracy results: maximum 3.156637, minimum 3.129137, range 0.027500, average 3.147887, median 3.150387, standard deviation 0.008892
+
+; 97C
+probe accuracy results: maximum 3.191637, minimum 3.184137, range 0.007500, average 3.188137, median 3.187887, standard deviation 0.002784
+
+; 100C
+probe accuracy results: maximum 3.236637, minimum 3.234137, range 0.002500, average 3.235137, median 3.234137, standard deviation 0.001225
+
+; 100C + 2mn
+probe accuracy results: maximum 3.279137, minimum 3.276637, range 0.002500, average 3.277137, median 3.276637, standard deviation 0.001000
+
+; 100C + 5mn
+probe accuracy results: maximum 3.324137, minimum 3.316637, range 0.007500, average 3.318137, median 3.316637, standard deviation 0.002291
