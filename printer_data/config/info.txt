@@ -23,7 +23,9 @@ Tuning procedure so far:
 - Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3700mm/s.s, corner velocity 5mm/s 
 - Vibration profile
 
-Main question is: is there something blatantly wrong with my setup, or that could be easily improved?
+Main questions are:
+- My vibration profile shows a lot of holes, what could I possibly do to have a more continuous high-speed green zone?
+- is there something blatantly wrong with my setup, or that could be easily improved?
 
 My goal is to get PIF quality with as fast print times as I reasonably can with my current setup.
 
