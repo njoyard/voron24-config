@@ -22,10 +22,7 @@ Tuning procedure so far:
 - Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3700mm/s.s, corner velocity 5mm/s 
 - Vibration profile
 
-Overall pretty satisfied with print quality, no obvious problems.
-Cube was printed with MZV with parameters from the results recommendation.
-
-Main question is: is there something blatantly wrong with my setup (or that could be easily improved) ?
+Main question is: is there something blatantly wrong with my setup, or that could be easily improved?
 
 My goal is to get PIF quality with as fast print times as I reasonably can with my current setup.
 
