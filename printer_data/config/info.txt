@@ -19,8 +19,8 @@ Shaketune tests procedure:
 Tuning procedure so far:
 - Belt response comparison, then adjusted belts to try to match them better (tightened A 1/8th turn) and remeasured
 - Axis shaper calibration + vibrations profile
-- Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3500mm/s.s, corner velocity 5mm/s 
-
+- Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3700mm/s.s, corner velocity 5mm/s 
+- Vibration profile
 
 Overall pretty satisfied with print quality, no obvious problems.
 Cube was printed with MZV with parameters from the results recommendation.
