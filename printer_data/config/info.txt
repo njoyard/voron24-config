@@ -2,7 +2,7 @@
 
 Hello there!
 
-Voron 2.4 300mm
+Voron 2.4 300mm, first build, with:
 - Galileo 2 extruder
 - ADXL345 on Nitehawk-SB toolboard
 - OMC 17HS19-2004S1 1.8° steppers on ABZ
