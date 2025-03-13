@@ -10,13 +10,16 @@ Voron 2.4 300mm
 - Sweep disabled and accel_per_hz = 100
 - Tuned AB to 110Hz@150mm, Z to 140@150mm, by ear with reference tone (way more precise than spectroid IMO), no measuring tool ATM (will print one once I have everything set up)
 - Checked XY joint screws from the image posted around
-- Adjusted belts to try to match them better after first shaketune test (tightened A 1/8th turn)
 
 Shaketune tests procedure:
 - With filament loaded
 - Heat soak at least 1h (hotend 240°C, bed 100°C, chamber around 50°C)
 - For each test: G28, QGL, G28 Z, G1 X150 Y150 Z20, then launch shaketune macro
 
+Tuning procedure so far:
+- Belt response comparison, then adjusted belts to try to match them better (tightened A 1/8th turn) and remeasured
+- Axis shaper calibration + vibrations profile
+- Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3500mm/s.s, corner velocity 5mm/s 
 
 
 Overall pretty satisfied with print quality, no obvious problems.
@@ -24,7 +27,7 @@ Cube was printed with MZV with parameters from the results recommendation.
 
 Main question is: is there something blatantly wrong with my setup (or that could be easily improved) ?
 
-My goal is to get PIF quality with as fast print times as I reasonably can.
+My goal is to get PIF quality with as fast print times as I reasonably can with my current setup.
 
 ----
 
