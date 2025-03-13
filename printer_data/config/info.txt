@@ -10,6 +10,7 @@ Voron 2.4 300mm
 - Sweep disabled and accel_per_hz = 100
 - Tuned AB to 110Hz@150mm, Z to 140@150mm, by ear with reference tone (way more precise than spectroid IMO), no measuring tool ATM (will print one once I have everything set up)
 - Checked XY joint screws from the image posted around
+- Klipper v0.12.0-439, Shake&Tune v5.1.1
 
 Shaketune tests procedure:
 - With filament loaded
