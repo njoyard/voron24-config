@@ -28,7 +28,7 @@ Main questions are:
 - My vibration profile shows a lot of holes, what could I possibly do to have a more continuous high-speed green zone?
 - is there something blatantly wrong with my setup, or that could be easily improved?
 
-My goal is to get PIF quality with as fast print times as I reasonably can with my current setup.
+My goal is to get PIF quality with as fast print times as I reasonably can with my current setup. I intend to print a long Galvanic guide soon (especially since I intend to get rid of XY chains)
 
 ----
 
