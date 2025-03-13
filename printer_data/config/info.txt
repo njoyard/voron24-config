@@ -1,6 +1,14 @@
 # Resonance testing message
 
-Tuned by ear with reference tone (way more precise than spectroid) then +1/8 turn to A to match belts on shaketune graph
+Tuned AB to 110Hz@15cm, Z to 140@15cm, by ear with reference tone (way more precise than spectroid) then +1/8 turn to A to match belts on shaketune graph.
+
+Shaketune tests procedure:
+- Filament loaded
+- Heat soak ~1h (hotend 240°C, bed 100°C, chamber around 50°C
+- For each test, G28 + QGL + G28 Z + G1 X150 Y150 Z20, then launch shaketune macro
+
+
+
 
 Voron 2.4 300mm
 - Belts tuned to 110Hz with 150mm between XY idler and front idler centers, by ear comparing to reference tone (tried spectroid, not accurate enough)
@@ -9,6 +17,8 @@ Voron 2.4 300mm
 - OMC 17HS19-2004S1 1.8° steppers on ABZ
 - TMC Autotune enabled on all steppers with default config and sensorless on AB
 - Sweep disabled
+
+
 
 Did a first tuning pass after reading topics here (checked XY joints screws, equalized belt tension).
 Overall pretty satisfied with print quality, no obvious problems.
