@@ -1,8 +1,9 @@
 # Resonance testing message
 
 Hello there!
+I just completed my first build, self-sourced, and I would like some guidance with it.
 
-Voron 2.4 300mm, first build, self-sourced with:
+Voron 2.4 300mm with:
 - Galileo 2 extruder
 - ADXL345 on Nitehawk-SB toolboard
 - OMC 17HS19-2004S1 1.8° steppers on ABZ
@@ -10,6 +11,7 @@ Voron 2.4 300mm, first build, self-sourced with:
 - Sweep disabled and accel_per_hz = 100
 - Tuned AB to 110Hz@150mm, Z to 140@150mm, by ear with reference tone (way more precise than spectroid IMO), no measuring tool ATM (will print one once I have everything set up)
 - Checked XY joint screws from the image posted around
+- Some BHCS screws may seem not fully seated in pictures, I confirm they are tight :)
 - Klipper v0.12.0-439, Shake&Tune v5.1.1
 
 Shaketune tests procedure:
@@ -23,6 +25,8 @@ Tuning procedure so far:
 - Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3700mm/s.s, corner velocity 5mm/s 
 - Vibration profile
 - Print cube (see 3MF file below, sliced with Orca)
+
+I'm pretty satisfied with the results so far, the cube seems to have no resonance issues (a couple other tuning issues I need to address though).
 
 Main questions are:
 - My vibration profile shows a lot of holes, what could I possibly do to have a more continuous high-speed green zone?
