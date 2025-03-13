@@ -1,5 +1,7 @@
 # Resonance testing message
 
+Tuned by ear with reference tone (way more precise than spectroid) then +1/8 turn to A to match belts on shaketune graph
+
 Voron 2.4 300mm
 - Belts tuned to 110Hz with 150mm between XY idler and front idler centers, by ear comparing to reference tone (tried spectroid, not accurate enough)
 - Galileo 2 extruder
@@ -13,6 +15,8 @@ Overall pretty satisfied with print quality, no obvious problems.
 Cube was printed with MZV with parameters from the results recommendation.
 
 Main question is: is there something blatantly wrong with my setup (or that could be easily improved) ?
+
+My goal is to get PIF quality with as fast print times as I reasonably can.
 
 ----
 
