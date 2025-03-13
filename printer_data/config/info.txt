@@ -22,6 +22,7 @@ Tuning procedure so far:
 - Axis shaper calibration + vibrations profile
 - Configure input shaper according to calibration results, EI on both axes (0% vibration), max accel set to 3700mm/s.s, corner velocity 5mm/s 
 - Vibration profile
+- Print cube (see 3MF file below, sliced with Orca)
 
 Main questions are:
 - My vibration profile shows a lot of holes, what could I possibly do to have a more continuous high-speed green zone?
